@@ -7,7 +7,7 @@ This repository contains Jupyter Notebooks that implement fundamental image proc
 ## Folder Structure
 
 ```
-TakeHome_01/
+Computer_Vision_Takehome_01/
 ├── data/               # Sample images
 ├── notebooks/          # Jupyter notebooks for experiments
 ├── results/            # Output results and generated files
